@@ -1,4 +1,7 @@
 ### Hi there 👋
+## I'm Pranav Jha
+
+[![An image of @pranav19github's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranav19github)](https://holopin.io/@pranav19github)
 
 <!--
 **Pranavv-Jha/Pranavv-Jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
